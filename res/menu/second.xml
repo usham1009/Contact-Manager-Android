@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.contactmanager1.SecondActivity" >
+
+	<item 
+		android:id="@+id/action_Help"
+		android:icon="@drawable/ic_help"
+		android:title="@string/lblHelp"
+		android:showAsAction="always"
+	 />
+
+</menu>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Contact Manager</string>
+    <string name="title_activity_second">Contact Manager</string>
+    <string name="title_activity_edit">Contact Manager</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Declaring String for labels -->
+    <string name="lblStatus">Fields marked * are mandatory</string>
+    <string name="lblFName">*First Name :</string>
+    <string name="lblLName"> Last Name :</string>
+    <string name="lblPhoneNo"> Phone No :</string>
+    <string name="lblEmail"> E-mail :</string>
+    <string name="lblSave">Save</string>
+    <string name="lblClear">Clear</string>
+    <string name="lblAdd">Add</string>
+    <string name="lblEdit">Edit</string>
+    <string name="lblDelete">Delete</string>
+    <string name="lblUpdate">Update</string>
+    <string name="lblHelp">Help</string>
+    <string name="lblHeading">Contact Manager</string>
+    <string name="lblName">Name</string>
+    <string name="lblPhone">Phone No</string>
+    <string name="dialogDelete">Are you sure you want to delete the current contact?</string>
+    <string name="lblYes">Yes</string>
+    <string name="lblNo">No</string>
+
+</resources>
